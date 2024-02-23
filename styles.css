@@ -1,0 +1,17 @@
+body {font-family: Arial, sans-serif;margin: 0;background: #F5F5F5;}
+header {background-color: #001F3F; color: #F5F5F5;display: flex;justify-content: space-between;align-items: center;}
+ul li {display: inline; margin-right: 10px;}
+a {color: #fff; text-decoration: none;}
+footer {background-color: #001F3F;color: #fff;padding: 20px;position: fixed;bottom: 0;width: 100%;text-align: center;}
+table{bgcolor: #FFA500;text-align: center;}
+.square-container {width: 530px;height: 450px;background-color: #1f4e7a;color: #333333;}
+.highlighted-text {background-color: #4e7eb5; padding: 5px; border-radius: 5px; display: inline;margin-left: 200px;}
+.container {display: flex;justify-content: space-between;max-width: 1200px;margin: 20px auto;}
+.rope-type {width: 48%;border: 1px solid #ccc;padding: 20px;margin-bottom: 20px;box-sizing: border-box;}
+.rope-type img {max-width: 100%;height: auto;margin-bottom: 10px;}
+.highlighted-text { display: inline-flex; align-items: center; height: 5%;}
+.container {max-width: 1200px;margin: 0 auto;padding: 20px;}
+.content {margin-bottom: 50px; }
+.content img {margin: 10px;}
+.product-image {border: 2px solid #ccc; border-radius: 10px; padding: 5px;}
+.container.content {clear: both; margin-top: 20px;padding-bottom: 100px;overflow: hidden;}            
